@@ -7,7 +7,7 @@ called in to your initial location.  Surrounding terrain is designed
 to be mazelike yet still diverse enough to provide strategic options.
 
 I developed Zombie Evasion completely on my own in the summer of 2017
-while attempting to expand my technological reportoire.  For the first
+while attempting to expand my technological repertoire.  For the first
 time, I dabbled with artificially intelligent agents and 3D modeling.
 Overall, Zombie Evasion was a fun experiment which helped direct my 
 personal career trajectory from that point forward.
